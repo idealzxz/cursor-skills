@@ -5,10 +5,12 @@
     "author": "idealzxz",
     "description": "",
     "category": "AI & ML",
-    "tags": [],
+    "tags": [
+      "水生"
+    ],
     "version": "1.0.0",
     "color": "#7C3AED",
-    "createdAt": "2026-03-21T14:57:08.185Z",
-    "updatedAt": "2026-03-21T14:57:09.341Z"
+    "createdAt": "2026-03-21T16:40:10.903Z",
+    "updatedAt": "2026-03-21T16:40:18.579Z"
   }
 ]
