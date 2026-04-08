@@ -1,4 +1,12 @@
 {
   "theme": "system",
-  "teamRepos": []
+  "teamRepos": [
+    {
+      "id": "tr-1775629431459",
+      "owner": "idealzxz",
+      "repo": "pubilc-skills",
+      "label": "idealzxz/pubilc-skills",
+      "platform": "github"
+    }
+  ]
 }
