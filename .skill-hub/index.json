@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "user-1775619121784-3xw8lc-0",
+    "name": "yapi-mock-generator",
+    "author": "idealzxz",
+    "description": "---\r\nname: yapi-mock-generator\r\ndescription: 从 YApi (docs.dui88.com) 接口文档自动生成 mock 数据和 API 定义。当用户提供 YApi 链接、要求生成 mock、创建",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#7C3AED",
+    "createdAt": "2026-04-08T03:32:34.979Z",
+    "updatedAt": "2026-04-08T03:32:36.078Z"
+  },
+  {
+    "id": "user-1775619121800-alfz8o-1",
+    "name": "create-popup",
+    "author": "idealzxz",
+    "description": "---\r\nname: create-popup\r\ndescription: 基于模板创建弹窗组件并自动注册到 modal store。当用户要求创建弹窗、新增弹窗组件、添加 Pop 弹窗时使用。\r\n---\r\n\r\n# 创建弹窗组件\r\n\r\n基于",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#2563EB",
+    "createdAt": "2026-04-08T03:32:01.800Z",
+    "updatedAt": "2026-04-08T03:32:01.800Z"
+  },
+  {
+    "id": "user-1775619121819-m519t2-2",
+    "name": "apply-popup-assets",
+    "author": "idealzxz",
+    "description": "---\r\nname: apply-popup-assets\r\ndescription: 将 src/assets/ 中的素材图片应用到对应弹窗组件的代码中。当用户说素材已放好、图片已放好、资源已准备好、帮我更新素材到代码时使用。\r\n---",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#059669",
+    "createdAt": "2026-04-08T03:32:01.819Z",
+    "updatedAt": "2026-04-08T03:32:01.819Z"
+  }
+]
