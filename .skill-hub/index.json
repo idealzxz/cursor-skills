@@ -22,17 +22,5 @@
     "color": "#2563EB",
     "createdAt": "2026-04-08T03:35:28.114Z",
     "updatedAt": "2026-04-08T03:35:28.114Z"
-  },
-  {
-    "id": "user-1775619121819-m519t2-2",
-    "name": "apply-popup-assets",
-    "author": "idealzxz",
-    "description": "---\r\nname: apply-popup-assets\r\ndescription: 将 src/assets/ 中的素材图片应用到对应弹窗组件的代码中。当用户说素材已放好、图片已放好、资源已准备好、帮我更新素材到代码时使用。\r\n---",
-    "category": "AI & ML",
-    "tags": [],
-    "version": "1.0.0",
-    "color": "#059669",
-    "createdAt": "2026-04-08T03:38:35.646Z",
-    "updatedAt": "2026-04-08T03:38:36.301Z"
   }
 ]
