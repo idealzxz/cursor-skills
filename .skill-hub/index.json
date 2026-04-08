@@ -22,5 +22,17 @@
     "color": "#059669",
     "createdAt": "2026-04-08T06:05:43.290Z",
     "updatedAt": "2026-04-08T06:05:43.290Z"
+  },
+  {
+    "id": "user-1775628542881-idqc59-0",
+    "name": "create-popup",
+    "author": "idealzxz",
+    "description": "---\r\nname: create-popup\r\ndescription: 基于模板创建弹窗组件并自动注册到 modal store。当用户要求创建弹窗、新增弹窗组件、添加 Pop 弹窗时使用。\r\n---\r\n\r\n# 创建弹窗组件\r\n\r\n基于",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#059669",
+    "createdAt": "2026-04-08T06:09:02.881Z",
+    "updatedAt": "2026-04-08T06:09:06.655Z"
   }
 ]
