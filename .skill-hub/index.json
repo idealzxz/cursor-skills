@@ -34,17 +34,5 @@
     "color": "#059669",
     "createdAt": "2026-04-08T06:09:02.881Z",
     "updatedAt": "2026-04-08T06:09:02.881Z"
-  },
-  {
-    "id": "user-1775628881232-2r6vs2",
-    "name": "test",
-    "author": "idealzxz",
-    "description": "",
-    "category": "AI & ML",
-    "tags": [],
-    "version": "1.0.0",
-    "color": "#D97706",
-    "createdAt": "2026-04-08T06:14:56.953Z",
-    "updatedAt": "2026-04-08T06:14:58.063Z"
   }
 ]
