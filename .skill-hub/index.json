@@ -10,5 +10,29 @@
     "color": "#7C3AED",
     "createdAt": "2026-04-08T03:32:36.078Z",
     "updatedAt": "2026-04-08T03:32:36.078Z"
+  },
+  {
+    "id": "user-1775628343250-xm0hzx-0",
+    "name": "create-popup",
+    "author": "idealzxz",
+    "description": "---\r\nname: create-popup\r\ndescription: 基于模板创建弹窗组件并自动注册到 modal store。当用户要求创建弹窗、新增弹窗组件、添加 Pop 弹窗时使用。\r\n---\r\n\r\n# 创建弹窗组件\r\n\r\n基于",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#2563EB",
+    "createdAt": "2026-04-08T06:05:43.250Z",
+    "updatedAt": "2026-04-08T06:08:14.439Z"
+  },
+  {
+    "id": "user-1775628343290-t4hfbl-1",
+    "name": "apply-popup-assets",
+    "author": "idealzxz",
+    "description": "---\r\nname: apply-popup-assets\r\ndescription: 将 src/assets/ 中的素材图片应用到对应弹窗组件的代码中。当用户说素材已放好、图片已放好、资源已准备好、帮我更新素材到代码时使用。\r\n---",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#059669",
+    "createdAt": "2026-04-08T06:05:43.290Z",
+    "updatedAt": "2026-04-08T06:05:43.290Z"
   }
 ]
