@@ -34,5 +34,113 @@
     "color": "#059669",
     "createdAt": "2026-04-08T06:09:02.881Z",
     "updatedAt": "2026-04-08T06:09:02.881Z"
+  },
+  {
+    "id": "user-1775637139653-oi9ybk-0",
+    "name": "update-cursor-settings",
+    "author": "idealzxz",
+    "description": "---\nname: update-cursor-settings\ndescription: >-\n  Modify Cursor/VSCode user settings in settings.json. Use when you wan",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#D97706",
+    "createdAt": "2026-04-08T08:32:19.653Z",
+    "updatedAt": "2026-04-08T08:32:59.824Z"
+  },
+  {
+    "id": "user-1775637139664-v0c8n1-1",
+    "name": "create-rule",
+    "author": "idealzxz",
+    "description": "---\nname: create-rule\ndescription: >-\n  Create Cursor rules for persistent AI guidance. Use when you want to create a",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#DC2626",
+    "createdAt": "2026-04-08T08:32:19.664Z",
+    "updatedAt": "2026-04-08T08:32:19.664Z"
+  },
+  {
+    "id": "user-1775637139671-ntew7r-2",
+    "name": "create-skill",
+    "author": "idealzxz",
+    "description": "---\nname: create-skill\ndescription: >-\n  Guides users through creating effective Agent Skills for Cursor. Use when you",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#0891B2",
+    "createdAt": "2026-04-08T08:32:19.671Z",
+    "updatedAt": "2026-04-08T08:32:19.671Z"
+  },
+  {
+    "id": "user-1775637139678-plu6ah-3",
+    "name": "create-component",
+    "author": "idealzxz",
+    "description": "---\r\nname: create-component\r\ndescription: 基于模板创建通用 UI 组件（非弹窗、非页面），包含 JSX、LESS 和素材目录。当用户要求创建组件、新增组件、添加按钮组、创建 UI 模块时使用。\r\n-",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#DB2777",
+    "createdAt": "2026-04-08T08:32:19.678Z",
+    "updatedAt": "2026-04-08T08:32:19.678Z"
+  },
+  {
+    "id": "user-1775637139683-ycs0v5-4",
+    "name": "yuque-workload-evaluator",
+    "author": "idealzxz",
+    "description": "---\r\nname: yuque-workload-evaluator\r\ndescription: 从语雀(Yuque)文档读取PRD需求并评估前端开发工时。当用户提供语雀链接要求评估工时、估时、排期，或提到PRD评审、工时评估时使用。",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#4F46E5",
+    "createdAt": "2026-04-08T08:32:19.683Z",
+    "updatedAt": "2026-04-08T08:32:19.683Z"
+  },
+  {
+    "id": "user-1775637139690-5m6f5v-5",
+    "name": "shell",
+    "author": "idealzxz",
+    "description": "---\nname: shell\ndescription: >-\n  Runs the rest of a /shell request as a literal shell command. Use only when\n  the user",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#EA580C",
+    "createdAt": "2026-04-08T08:32:19.690Z",
+    "updatedAt": "2026-04-08T08:32:19.690Z"
+  },
+  {
+    "id": "user-1775637139697-11wztj-6",
+    "name": "migrate-to-skills",
+    "author": "idealzxz",
+    "description": "---\nname: migrate-to-skills\ndescription: >-\n  Convert 'Applied intelligently' Cursor rules (.cursor/rules/*.mdc) and sla",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#0D9488",
+    "createdAt": "2026-04-08T08:32:19.697Z",
+    "updatedAt": "2026-04-08T08:32:19.697Z"
+  },
+  {
+    "id": "user-1775637139704-co5ioy-7",
+    "name": "create-subagent",
+    "author": "idealzxz",
+    "description": "---\nname: create-subagent\ndescription: >-\n  Create custom subagents for specialized AI tasks. Use when you want to creat",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#7C3AED",
+    "createdAt": "2026-04-08T08:32:19.704Z",
+    "updatedAt": "2026-04-08T08:32:19.704Z"
+  },
+  {
+    "id": "user-1775637139710-8s65jo-8",
+    "name": "create-page",
+    "author": "idealzxz",
+    "description": "---\r\nname: create-page\r\ndescription: 基于模板创建页面组件并自动注册到路由。当用户要求创建页面、新增 Page、添加新页面时使用。\r\n---\r\n\r\n# 创建页面组件\r\n\r\n基于项目页面模板，创建新的页面组",
+    "category": "AI & ML",
+    "tags": [],
+    "version": "1.0.0",
+    "color": "#2563EB",
+    "createdAt": "2026-04-08T08:32:19.710Z",
+    "updatedAt": "2026-04-08T08:32:19.710Z"
   }
 ]
